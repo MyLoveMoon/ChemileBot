@@ -11,7 +11,7 @@ DEV_OP = [
     ],
     [
         InlineKeyboardButton(
-            text="✦ 𝐀𝐝𝐝 𝐌𝐞 𝐁𝐚𝐛𝐲 ✦",
+            text="✦ 𝐀ᴅᴅ 𝐌ᴇ 𝐁ᴀʙʏ ✦",
             url=f"https://t.me/{nexichat.username}?startgroup=true",
         ),
     ],
@@ -20,14 +20,14 @@ DEV_OP = [
     ],
     [
        # InlineKeyboardButton(text="🍃𝗦𝗢𝗨𝗥𝗖𝗘🍃", callback_data="SOURCE"),
-        InlineKeyboardButton(text="🍃𝗦𝗨𝗣𝗣𝗢𝗥𝗧🍃", callback_data="https://t.me/Coderzzz_Support"),
+        InlineKeyboardButton(text="🍃𝗦𝗨𝗣𝗣𝗢𝗥𝗧🍃", callback_data="https://t.me/new_heroku_cc"),
     ],
 ]
 
 PNG_BTN = [
     [
         InlineKeyboardButton(
-            text="😍 𝐀𝐝𝐝 𝐌𝐞 𝐁𝐚𝐛𝐲 😍",
+            text="😍 𝐀ᴅᴅ 𝐌ᴇ 𝐁ᴀʙʏ 😍",
             url=f"https://t.me/{nexichat.username}?startgroup=true",
         ),
     ],
@@ -116,7 +116,7 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="🍃𝗦𝗨𝗣𝗣𝗢𝗥𝗧🍃", url=f"https://t.me/Coderzzz_Support"),
+        InlineKeyboardButton(text="🍃𝗦𝗨𝗣𝗣𝗢𝗥𝗧🍃", url=f"https://t.me/new_heroku_cc"),
         InlineKeyboardButton(text="« 𝗛𝗲𝗹𝗽 »", callback_data="HELP"),
     ],
     [
@@ -124,7 +124,7 @@ ABOUT_BTN = [
      #   InlineKeyboardButton(text="🍃𝗦𝗢𝗨𝗥𝗖𝗘🍃", callback_data="SOURCE"),
     ],
     [
-        InlineKeyboardButton(text="🍃𝗨𝗣𝗗𝗔𝗧𝗘𝗦🍃", url=f"https://t.me/Coderzzz_Updates"),
+        InlineKeyboardButton(text="🍃𝗨𝗣𝗗𝗔𝗧𝗘𝗦🍃", url=f"https://t.me/new_heroku_cc"),
         InlineKeyboardButton(text="𝗕𝗮𝗰𝗸", callback_data="BACK"),
     ],
 ]
