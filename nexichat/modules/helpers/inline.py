@@ -58,7 +58,7 @@ HELP_BTN = [
 ]
 
 
-CLOSE_BTN = [ᴘ
+CLOSE_BTN = [
     [
         InlineKeyboardButton(text="𝗖𝗹𝗼𝘀𝗲", callback_data="CLOSE"),
     ],
