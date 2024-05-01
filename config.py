@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = "22368569"
+API_ID = "11957159"
 # -------------------------------------------------------------
-API_HASH = "11efb42a66b1d13a1ab46a3e24c3abb1"
+API_HASH = "58d3797fad2c199f124958fdbface07e"
 # --------------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 MONGO_URL = getenv("MONGO_URL", None)
-OWNER_ID = "6319746147"
+OWNER_ID = "5404780592"
 SUPPORT_GRP = "new_heroku_cc"
 UPDATE_CHNL = "new_heroku_cc"
-OWNER_USERNAME = "lakDVI"
+OWNER_USERNAME = "premViraj"
 
