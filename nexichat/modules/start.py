@@ -53,9 +53,9 @@ IMG = [
 
 # Random Stickers
 STICKER = [
-    "CAACAgUAAx0CYlaJawABBy4vZaieO6T-Ayg3mD-JP-f0yxJngIkAAv0JAALVS_FWQY7kbQSaI-geBA",
-    "CAACAgUAAx0CYlaJawABBy4rZaid77Tf70SV_CfjmbMgdJyVD8sAApwLAALGXCFXmCx8ZC5nlfQeBA",
-    "CAACAgUAAx0CYlaJawABBy4jZaidvIXNPYnpAjNnKgzaHmh3cvoAAiwIAAIda2lVNdNI2QABHuVVHgQ",
+    "CAACAgUAAxkBAAJUYWYx_xI6Cj09UfHn2roR0Ee-rOChAALSFwACESQYVV15pQdl1kJ-NAQ",
+    "CAACAgUAAxkBAAJUZGYx_1-dE3P3BiBjt42L-8f2gysHAAJzCAACkxXhVzQpJDz4m87nNAQ",
+    "CAACAgUAAxkBAAJUZ2Yx_6-TsutYREmGPrxzGW9zRDNOAAIYCQACRPsxV883ldkAAayJbzQE",
 ]
 
 #---------------STICKERS---------------#
@@ -64,16 +64,16 @@ STICKER = [
 #---------------EMOJIOS---------------#
 
 EMOJIOS = [
-    "💣",
+    "😎",
     "💥",
-    "🪄",
-    "🧨",
+    "🧡",
+    "🤞",
     "⚡",
     "🤡",
     "👻",
-    "🎃",
-    "🎩",
-    "🕊",
+    "🥰",
+    "🦋",
+    "😌",
 ]
 
 
