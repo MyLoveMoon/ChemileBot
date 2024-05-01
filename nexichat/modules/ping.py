@@ -67,7 +67,7 @@ async def ping(_, message: Message):
 
     ms = (datetime.now() - start).microseconds / 1000
     await loda.edit_text(
-        text=f"𝐇𝐞𝐲 𝐁𝐚𝐛𝐲!!\n{nexichat.name} 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🥀 𝐀𝐧𝐝 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐅𝐢𝐧𝐞 𝐖𝐢𝐭𝐡 𝐀 𝐏𝐢𝐧𝐠 𝐎𝐟\n➥ `{ms}` ms\n\n<b>|| 𝐌𝐚𝐝𝐞 𝐖𝐢𝐭𝐡  ❣️ 𝐁𝐲 [𝗜'𝗺 𝗖𝗢𝗗𝗘𝗥𝗭](https://t.me/{OWNER_USERNAME}) ||</b>",
+        text=f"𝐇ᴇʏ 𝐁ᴀʙʏ!!\n{nexichat.name} 𝐈s 𝐀ʟɪᴠᴇ 🥀 𝐀ɴᴅ 𝐖ᴏʀᴋɪɴɢ 𝐅ɪɴᴇ 𝐖ɪᴛʜ 𝐀 𝐏ɪɴɢ 𝐎ғ\n➥ `{ms}` ms\n\n<b>|| 𝐌ᴀᴅᴇ 𝐖ɪᴛʜ  ❣️ 𝐁ʏ [𝐎ᴡɴᴇʀ](https://t.me/{OWNER_USERNAME}) ||</b>",
         reply_markup=InlineKeyboardMarkup(PNG_BTN),
     )
     if message.chat.type == ChatType.PRIVATE:
