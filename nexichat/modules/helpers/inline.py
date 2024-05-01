@@ -6,12 +6,12 @@ from nexichat import nexichat
 
 DEV_OP = [
     [
-        InlineKeyboardButton(text="🍃𝗢𝗪𝗡𝗘𝗥🍃", user_id=OWNER),
-        InlineKeyboardButton(text="🍃𝗨𝗣𝗗𝗔𝗧𝗘𝗦🍃", url=f"https://t.me/new_heroku_cc"),
+        InlineKeyboardButton(text="🌸ᴏᴡɴᴇʀ🌸", user_id=OWNER),
+        InlineKeyboardButton(text="💐ᴜᴘᴅᴀᴛᴇs💐", url=f"https://t.me/new_heroku_cc"),
     ],
     [
         InlineKeyboardButton(
-            text="✦ 𝐀ᴅᴅ 𝐌ᴇ 𝐁ᴀʙʏ ✦",
+            text="🔺𝐀ᴅᴅ 𝐌ᴇ 𝐁ᴀʙʏ🔺",
             url=f"https://t.me/{nexichat.username}?startgroup=true",
         ),
     ],
@@ -19,8 +19,7 @@ DEV_OP = [
         InlineKeyboardButton(text="« ʜᴇʟᴘ »", callback_data="HELP"),
     ],
     [
-       # InlineKeyboardButton(text="🍃𝗦𝗢𝗨𝗥𝗖𝗘🍃", callback_data="SOURCE"),
-        InlineKeyboardButton(text="🍃𝗦𝗨𝗣𝗣𝗢𝗥𝗧🍃", callback_data="https://t.me/new_heroku_cc"),
+       # InlineKeyboardButton(text="🤨𝗦ᴏᴜʀᴄᴇ😑", callback_data="SOURCE"),
     ],
 ]
 
@@ -49,8 +48,8 @@ BACK = [
 
 HELP_BTN = [
     [
-        InlineKeyboardButton(text="🍃𝗖𝗛𝗔𝗧𝗕𝗢𝗧🍃", callback_data="CHATBOT_CMD"),
-        InlineKeyboardButton(text="🍃 𝗧𝗢𝗢𝗟𝗦 🍃", callback_data="TOOLS_DATA"),
+        InlineKeyboardButton(text="🤖𝗖ʜᴀᴛ𝐁ᴏᴛ🤖", callback_data="CHATBOT_CMD"),
+        InlineKeyboardButton(text="👻𝗧ᴏᴏʟs👻", callback_data="TOOLS_DATA"),
     ],
     [
         InlineKeyboardButton(text="𝗕𝗮𝗰𝗸", callback_data="BACK"),
@@ -59,7 +58,7 @@ HELP_BTN = [
 ]
 
 
-CLOSE_BTN = [
+CLOSE_BTN = [ᴘ
     [
         InlineKeyboardButton(text="𝗖𝗹𝗼𝘀𝗲", callback_data="CLOSE"),
     ],
@@ -116,15 +115,14 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="🍃𝗦𝗨𝗣𝗣𝗢𝗥𝗧🍃", url=f"https://t.me/new_heroku_cc"),
         InlineKeyboardButton(text="« 𝗛𝗲𝗹𝗽 »", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="🍃𝗢𝗪𝗡𝗘𝗥🍃", user_id=OWNER),
-     #   InlineKeyboardButton(text="🍃𝗦𝗢𝗨𝗥𝗖𝗘🍃", callback_data="SOURCE"),
+        InlineKeyboardButton(text="😎𝗢ᴡɴᴇʀ", user_id=OWNER),
+     #   InlineKeyboardButton(text="⚠️𝗦ᴏᴜʀᴄᴇ⚠️", callback_data="SOURCE"),
     ],
     [
-        InlineKeyboardButton(text="🍃𝗨𝗣𝗗𝗔𝗧𝗘𝗦🍃", url=f"https://t.me/new_heroku_cc"),
+        InlineKeyboardButton(text="🍁𝗨ᴘᴅᴀᴛᴇs🍁", url=f"https://t.me/new_heroku_cc"),
         InlineKeyboardButton(text="𝗕𝗮𝗰𝗸", callback_data="BACK"),
     ],
 ]
