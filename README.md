@@ -18,4 +18,7 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/LeeyooMuzic/saiChemile"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="320" height="138.45"/></a></p>
 
-  
+# koyeb
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/leeyoomuzic/saichemile/tree/master&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[OWNER_USERNAME]&env[MONGO_URL]&env[OWNER_ID]&env[SUPPORT_GRP]) 
+
