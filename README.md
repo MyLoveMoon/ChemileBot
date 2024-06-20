@@ -6,7 +6,7 @@
 
 ## Deploy To Render              
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/LeeyooMuzic/saiChemile/tree/main)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mylovemoon/ChemileBot/tree/main)
 
 
 
