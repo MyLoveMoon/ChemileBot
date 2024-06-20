@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python main.py
-    repo: https://github.com/LeeyooMuzic/saiChemile
+    repo: https://github.com/mylovemoon/ChemileBot
     branch: main
     autoDeploy: false
     envVars:
