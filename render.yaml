@@ -15,5 +15,10 @@ services:
         sync: false
       - key: API_HASH
         sync: false
-      - key: OWNER
+      - key: OWNER_ID
         sync: false
+      - key: MONGO_URL
+        sync: false
+      - key: SUPPORT_GRP
+        sync: false  
+        
