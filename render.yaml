@@ -5,8 +5,8 @@ services:
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python main.py
-    repo: https://github.com/Snowball-0/Telegram-Report-Bot
-    branch: master
+    repo: https://github.com/LeeyooMuzic/saiChemile
+    branch: main
     autoDeploy: false
     envVars:
       - key: BOT_TOKEN
