@@ -22,7 +22,7 @@ class Bot (Client):
 
     def __init__(self):
         super().__init__(
-            name="ReportBot",
+            name="saichemile",
             in_memory=True,
             api_id=Config.API_ID,
             api_hash=Config.API_HASH,
@@ -42,7 +42,7 @@ class Bot (Client):
         logging.info(f"✅ {me.first_name} with for Pyrogram v{__version__} (Layer {layer}) started on {me.username}. ✅")
 
 
-        await self.send_message(Config.OWNER, f"**__{me.first_name}  Iꜱ Sᴛᴀʀᴛᴇᴅ.....✨️__**")
+        await self.send_message(Config.OWNER_ID, f"**__{me.first_name}  Iꜱ Sᴛᴀʀᴛᴇᴅ.....✨️__**")
 
 
     async def stop(self, *args):
